@@ -1,5 +1,6 @@
 # Adding config.py file.
 api_keys.py
+cinfig.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
